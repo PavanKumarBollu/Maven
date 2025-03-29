@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: PavanSolutions._Maven_Project_Creation_In_Eclipse_And_JDBC_Connection.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.071 s -- in PavanSolutions._Maven_Project_Creation_In_Eclipse_And_JDBC_Connection.AppTest
